@@ -1,0 +1,7 @@
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\bin\Debug\ScanCD.exe.config
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\bin\Debug\ScanCD.exe
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\bin\Debug\ScanCD.pdb
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\obj\Debug\ScanCD.csprojAssemblyReference.cache
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\obj\Debug\ScanCD.csproj.CoreCompileInputs.cache
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\obj\Debug\ScanCD.exe
+C:\Users\jarnail\Desktop\ScanCD\ScanCD\obj\Debug\ScanCD.pdb

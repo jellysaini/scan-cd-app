@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanCD", "ScanCD\ScanCD.csproj", "{1D81A5C1-6EB4-4045-9D76-1762043829EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D81A5C1-6EB4-4045-9D76-1762043829EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D81A5C1-6EB4-4045-9D76-1762043829EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D81A5C1-6EB4-4045-9D76-1762043829EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D81A5C1-6EB4-4045-9D76-1762043829EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7B8F4E-9701-4A47-A526-C5B3233E5B8A}
+	EndGlobalSection
+EndGlobal
